@@ -73,7 +73,7 @@ def bfs_climb(climb_height : int, teacher_loc) -> int:
                 
         
     return biggestHeight
-ttttt = 100
+
 
 biggestHeight = -1
 temp_big = -1
