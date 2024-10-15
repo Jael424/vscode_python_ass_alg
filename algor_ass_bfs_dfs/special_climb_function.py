@@ -74,6 +74,7 @@ def bfs_climb(climb_height : int, teacher_loc) -> int:
         
     return biggestHeight
 
+
 biggestHeight = -1
 temp_big = -1
 def dfs_climb_2(climb_height : int, teacher_loc, up : int, down : int) -> int:
